@@ -1,2 +1,2 @@
-# cooner-API
+# scooner-API
 # scooner-API
