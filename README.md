@@ -1,1 +1,1 @@
-# Scooner-API
+# Scooner
